@@ -1,9 +1,10 @@
-TO_DO App 📝 
+# TO_DO App 📝 
 
 An app to add, edit, delete and mark tasks as completed.
+<img width="1919" height="980" alt="Image" src="https://github.com/user-attachments/assets/96a0bc37-47b1-4814-aeba-716efb8f9627" />
 Simple and clean To-Do List web application built using HTML, CSS, and JavaScript.
 
-✨ Features
+## ✨ Features
 1. Add new tasks
 
 2. Edit existing tasks
@@ -14,10 +15,10 @@ Simple and clean To-Do List web application built using HTML, CSS, and JavaScrip
 
 Responsive and clean user interface
 
-🚀 Tech Stack
+## 🚀 Tech Stack
 Frontend: HTML, CSS, JavaScript
 
-🖥️ Demo
+## 🖥️ Demo
 
 🛠️ Installation & Usage
 Clone the repository:
